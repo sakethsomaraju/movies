@@ -1,0 +1,35 @@
+h2{
+    
+    font-size: 40px;
+
+}
+.title{
+    border-radius: 5px;
+    border: none;
+    height: 30px;
+    width:490px;
+    text-align: center;
+    font-weight: 200;
+    line-height: 5px;
+    margin-bottom: 20px;
+    font-size: 19px;
+    padding: 4px 0px;
+}
+.container{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    
+}
+button{
+    border: none;
+    color: black;
+    width:120px;
+    padding:5px;
+    background-color: transparent;
+    font-size: 19px;
+}
+button:hover{
+   cursor: pointer; 
+   font-size: 20px;
+}
